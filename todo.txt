@@ -1,0 +1,23 @@
+Figury geometryczne
+###########################
+http://www.geometria_info.republika.pl/index_3.htm
+na plaszczyznie:
+	*kwadrat
+	*prostokat
+	*trapez
+	*trojkat
+	*rownoleglobok
+	*deltoid
+	*romb
+	*szesciokat
+	*kolo
+###########################
+http://www.geometria_info.republika.pl/index_9.htm
+przestrzenne:
+	*graniastoslup
+	*prostopadloscian
+	*szescian
+	*ostroslup
+	*stozek
+	*walec
+	*kula
